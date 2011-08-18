@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Mike's log</title><link>http://mrcaron.github.com</link><description></description><atom:link href="http://mrcaron.github.com/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 18 Aug 2011 00:00:00 -0000</lastBuildDate><item><title>First Post</title><link>http://mrcaron.github.com/first-post.html</link><description>&lt;p&gt;Hi. I'm starting a new blog hosted on &lt;a href="http://pages.github.com"&gt;GitHub Pages&lt;/a&gt;.
-This is my first post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Caron</dc:creator><pubDate>Thu, 18 Aug 2011 00:00:00 -0000</pubDate></item></channel></rss>
