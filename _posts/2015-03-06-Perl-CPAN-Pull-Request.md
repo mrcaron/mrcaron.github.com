@@ -21,6 +21,7 @@ I fired up HyperV, installed a new [ubuntu/trusty64](https://vagrantcloud.com/ub
 7. Create a library home for new repos to sandbox things and use it 
   1. `perlbrew lib create mrc`
   2. `perlbrew use perl-5.20.2@mrc`
+  3. `export PATH=$PATH:$PERLBREW_PATH` (needed to include the bin for `dzil`)
 7. Install Dist::Zilla 
   2. `cpanm -n Dist::Zilla`
 
