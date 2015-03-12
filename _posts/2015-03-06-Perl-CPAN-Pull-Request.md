@@ -21,7 +21,7 @@ I fired up HyperV, installed a new [ubuntu/trusty64](https://vagrantcloud.com/ub
   1. `perlbrew lib create mrc`
   2. `perlbrew use perl-5.20.2@mrc`
 7. Install Dist::Zilla 
-  1. `cpanm -T Dist::Zilla`
+  1. `cpanm -n Dist::Zilla`
 
 ## Update
 After some frustration with Hyper-V and proxy, I decided to go back to VirtualBox. I was having some issues getting through my CNTLM proxy _still_. I had to setup an additional private NIC and then setup a firewall rule to allow the VM to connect to my CNTLM proxy. Still wasn't working. Then I discovered that I had to turn on the `-g` (gateway) option in CNTLM, allowing it to be accessed from *.*.*.*:3128, not just the loopback device. That worked! Now I'm back up (with VirtualBox), proxy-enabled and sharing folders.
