@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Vagrant & Hyper-V"
+---
+
 # Vagrant & Hyper-V
 I've been participating in the CPAN pull request challenge in the Perl community this year and it's been a great learning experience. I've learned about Dist::Zilla, Travis CI and Perlbrew. This month, I've been working on html-scrubber, and the Dist::Zilla plugins are giving my windows 8 box a headache so I decided to use Vagrant to spinup a Ubuntu box. Travis uses perlbrew to install a new perl, run the build and tests so why shouldn't I? 
 
