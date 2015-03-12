@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Hi.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I sling electrons for Dassault Systems, SolidWorks, but the opinions expressed in my blog are my own. So if I say something that doesn't jive right, come after me, not them. I write what I want, when I want and often it's geeky in nature. I like being outside and often wish I could program in a glass bubble outside in the grass. I love mountains, cycling (and often those two together), cooking, public speaking, history and art. Oh, and programming. I <3 GitHub, you can donate me a [hoodie](http://github.myshopify.com/products/invertocat-hoodie).
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This blog is published automatically from [Github Pages](https://pages.github.com/), using Mediator, a medium inspired Jekyll blog theme by [Dirk Fabisch](http://github.com/dirkfabisch), who uses the same theme on [his own blog](blog.base68.com).. The basic idea came from the Ghost theme [Readium 2.0](http://www.svenread.com/readium-ghost-theme/). 
